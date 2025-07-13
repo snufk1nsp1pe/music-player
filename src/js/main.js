@@ -2,38 +2,38 @@ let songs = [
     {
         title: "Cry Baby", 
         artist: "The Neighbourhood",
-        src : "../public/songs/cry-baby.mp3",
-        cover: "../public/covers/cry-baby-cover.jpg",
+        src : "/songs/cry-baby.mp3",
+        cover: "/covers/cry-baby-cover.jpg",
     },
     {
         title: "Prey", 
         artist: "The Neighbourhood",
-        src: "../public/songs/prey.mp3",
-        cover: "../public/covers/cry-baby-cover.jpg"
+        src: "/songs/prey.mp3",
+        cover: "/covers/cry-baby-cover.jpg"
     },
     {
         title: "Runaway", 
         artist: "Del Shannon", 
-        src: "../public/songs/Runaway.mp3",
-        cover: "../public/covers/runaway-cover.jpg"
+        src: "/songs/Runaway.mp3",
+        cover: "/covers/runaway-cover.jpg"
     },
     {
         title: "The Driver", 
         artist: "Maneskin", 
-        src: "../public/songs/THE-DRIVER.mp3",
-        cover: "../public/covers/the-driver-cover.jpg"
+        src: "/songs/THE-DRIVER.mp3",
+        cover: "/covers/the-driver-cover.jpg"
     },
     {
         title: "When Can I See You Again", 
         artist: "Owl City", 
-        src: "../public/songs/when-can-i-see-you-again.mp3",
-        cover: "../public/covers/owl-city-cover.jpg"
+        src: "/songs/when-can-i-see-you-again.mp3",
+        cover: "/covers/owl-city-cover.jpg"
     },
     {
         title: "En Nuit", 
         artist: "Videoclub", 
-        src: "../public/songs/en-nuit.mp3",
-        cover: "../public/covers/videoclub.jpg"
+        src: "/songs/en-nuit.mp3",
+        cover: "/covers/videoclub.jpg"
     }
 ]
 
