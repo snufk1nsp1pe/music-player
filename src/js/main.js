@@ -184,7 +184,7 @@ if(bar.value === bar.max){
 let menu = document.getElementById('menu');
 let menubtn = document.getElementById('menu-button');
 let mode = "normal";
-menubtn.addEventListener('mouseover', ()=>{
+menubtn.addEventListener('click', ()=>{
   if(mode == "normal"){
         menu.style.transform = "translateX(-348.5px)";
         menubtn.style.transform = "rotate(90deg)";
